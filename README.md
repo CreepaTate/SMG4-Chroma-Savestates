@@ -6,7 +6,7 @@ This pack will continue to be updated. The current characters included are:
 - Xboxfan997
 - FightingMario54321
 
-I plan to include more characters, like MarioMario4321 in the future.
+I plan to include more characters, like MarioMario54321 in the future.
 
 This does NOT include seperate savestates for different expressions. To do that, see [here.](https://www.youtube.com/watch?v=o33pdMVl2Ow)
 
