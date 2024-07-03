@@ -16,3 +16,5 @@ to a vanilla (AKA 8MB) SM64 ROM, and when you're in the ROM, set the memory size
 These probably won't work with PJ64 3.0+, I recommend either 2.3.2 or 1.6, or even better, [Luna's Project64.](https://github.com/Luna-Project64/Luna-Project64/releases)
 
 Do NOT unzip the zip files. They WILL break.
+
+Some of the characters may not use the EXACT color codes as in the SMG4 series, as they may not be publicly available, so some characters will be recreations.
