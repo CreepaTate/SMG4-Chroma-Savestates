@@ -5,6 +5,9 @@ This pack will continue to be updated. The current characters included are:
 - SMG3
 - Xboxfan997
 - FightingMario54321
+- Enzo (Roprinplup14)
+- MarioMario54321
+- MCGustavo
 
 I plan to include more characters, like MarioMario54321 in the future.
 
