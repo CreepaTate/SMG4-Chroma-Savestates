@@ -14,3 +14,5 @@ If a normal Super Mario 64 ROM crashes with these savestates, download [this pat
 to a vanilla (AKA 8MB) SM64 ROM, and when you're in the ROM, set the memory size to 8MB in Project64.
 
 These probably won't work with PJ64 3.0+, I recommend either 2.3.2 or 1.6, or even better, [Luna's Project64.](https://github.com/Luna-Project64/Luna-Project64/releases)
+
+Do NOT unzip the zip files. They WILL break.
