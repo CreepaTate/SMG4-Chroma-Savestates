@@ -1,6 +1,6 @@
 # SMG4 Chroma Savestates
 
-This is a pack of chroma key savestates for SMG4's Mario recolors, and Mario and Luigi themselves.
+This is a pack of chroma key savestates for SMG4's classic Mario recolors, and Mario and Luigi themselves.
 This pack will no longer be updated. The characters included are:
 - SMG4
 - SMG3
