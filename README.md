@@ -8,7 +8,6 @@ This pack will continue to be updated. The current characters included are:
 - Enzo (Roprinplup14)
 - MarioMario54321
 - MCGustavo
-- Naked Mario (Overall buttons don't disappear for some reason)
 
 I plan to include more characters in the future.
 
