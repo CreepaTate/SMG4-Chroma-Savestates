@@ -13,9 +13,7 @@ This pack will no longer be updated. The characters included are:
 - Mario
 - Luigi
 
-I plan to include more characters in the future.
-
-This does NOT include seperate savestates for different expressions. To do that, see [here.](https://www.youtube.com/watch?v=o33pdMVl2Ow)
+This does NOT include seperate savestates for different expressions. To add expressions, see [here.](https://www.youtube.com/watch?v=o33pdMVl2Ow)
 
 The savestates were created with [this patch.](https://drive.google.com/file/d/1R-Hd_wZ8vEpQGUnyWJmZu16eCbDsx3AG/view?pli=1)
 
