@@ -1,8 +1,7 @@
 # SMG4 Chroma Savestates
 
-This is a pack of chroma key savestates for SMG4's Mario recolors. If you were looking for savestates of Mario and Luigi themselves, see [this page.](https://weegeepie.neocities.org/savestates/) yes, I know those savestates were made by a bad person,
-but they're the only good ones out there.
-This pack will continue to be updated. The current characters included are:
+This is a pack of chroma key savestates for SMG4's Mario recolors, and Mario and Luigi themselves.
+This pack will no longer be updated. The characters included are:
 - SMG4
 - SMG3
 - Xboxfan997
@@ -11,6 +10,8 @@ This pack will continue to be updated. The current characters included are:
 - MarioMario54321
 - MCGustavo
 - Naked Mario
+- Mario
+- Luigi
 
 I plan to include more characters in the future.
 
